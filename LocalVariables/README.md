@@ -23,7 +23,7 @@ An example of this is found in `LocalVariables.cbl` with the local variable `res
 
 ## License
 
-Copyright 2023-2024 Rocket Software, Inc. or its affiliates.
+Copyright 2023-2025 Rocket Software, Inc. or its affiliates.
 This software may be used, modified, and distributed
 (provided this notice is included without modification)
 solely for internal demonstration purposes with other
