@@ -19,7 +19,7 @@ An example of this is found in `LocalVariables.cbl` with the local variable `res
 2. Import the project by selecting `File`, `Import`, `General`, `Existing Projects into Workspace`. In `Select root directory` select `Browse` and navigate to where you cloned this github repository, select the `LocalVariables` folder and `Finish`.
 4. Open the debug perspective by selecting `Window`, `Perspective`, `Open Perspective`, `Other...`, `Debug`.
 5. Under `Project Explorer` select `LocalVariables`, `COBOL Programs`, then `LocalVariables.cbl` to view the program.
-6. Debug the program.
+6. Debug the program by right-clicking the editor and selecting `Debug As` `COBOL Application`.
 
 ## License
 

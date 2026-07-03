@@ -24,7 +24,7 @@ Colon-Colon syntax is more concise and is aligned with other modern programming 
 2. Import the project by selecting `File`, `Import`, `General`, `Existing Projects into Workspace`. In `Select root directory` select `Browse` and navigate to where you cloned this github repository, select the `ColonColonSyntax` folder and `Finish`.
 3. Open the debug perspective by selecting `Window`, `Perspective`, `Open Perspective`, `Other...`, `Debug`.
 4. Under `Project Explorer` select `ColonColonSyntax`, `COBOL Programs`, then `ColonColonSyntax.cbl` to view the program.
-5. Debug the program.
+6. Debug the program by right-clicking the editor and selecting `Debug As` `COBOL Application`.
 
 ## License
 
