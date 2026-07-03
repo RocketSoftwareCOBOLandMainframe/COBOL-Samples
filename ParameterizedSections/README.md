@@ -21,7 +21,7 @@ Parameterized sections can also return a value using the `RETURNING` keyword, on
 2. Import the project by selecting `File`, `Import`, `General`, `Existing Projects into Workspace`. In `Select root directory` select `Browse` and navigate to where you cloned this github repository, select the `ParameterizedSections` folder and `Finish`.
 4. Open the debug perspective by selecting `Window`, `Perspective`, `Open Perspective`, `Other...`, `Debug`.
 5. Under `Project Explorer` select `ParameterizedSections`, `COBOL Programs`, then `ParameterizedSections.cbl` to view the program.
-6. Debug the program.
+6. Debug the program by right-cliclingh the editor and selecting `Debug As` `COBOL Application`.
 
 ## License
 
