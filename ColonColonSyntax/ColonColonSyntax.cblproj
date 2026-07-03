@@ -25,5 +25,5 @@
   <ItemGroup>
     <Compile Include="ColonColonSyntax.cbl" />
   </ItemGroup>
-  <Import Project="$(MSBuildExtensionsPath)\Micro Focus\Visual COBOL\v1.0\MicroFocus.COBOL.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Rocket Software\Visual COBOL\Rocket.COBOL.targets" />
 </Project>
